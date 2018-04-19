@@ -1,0 +1,12 @@
+[submodule "ddl"]
+	path = ddl
+	url = https://github.com/team-chim/ddl
+[submodule "backend"]
+	path = backend
+	url = https://github.com/team-chim/backend
+[submodule "Front-End"]
+	path = Front-End
+	url = https://github.com/team-chim/Front-End
+[submodule "lb"]
+	path = lb
+	url = https://github.com/team-chim/lb
